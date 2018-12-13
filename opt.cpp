@@ -1,6 +1,6 @@
 /*********************************************************************                                                                                                               
  *** Author: Keenan Taggart
- *** Date: 2018
+ *** Date: 2017
  *** Program: opt.cpp 
  *** Description: An implementation of the 2opt algorithm in order to 
  *** approximate the Traveling Salesman problem. Nearest Neighbor
