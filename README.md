@@ -1,5 +1,5 @@
 # 2opt-tour
-Implementation of the 2-opt algorithm which finds approximate solutions for Traveling Salesman problemsets
+Implementation of the 2-opt algorithm which finds approximate solutions for Traveling Salesman problemsets.
 
 Traveling Salesman problem-set files should be plain text & formatted as follows for each city:
 [city number] [x-coordinate] [y-coordinate]
